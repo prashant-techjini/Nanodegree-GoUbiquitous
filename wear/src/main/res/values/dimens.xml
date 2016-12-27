@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="digital_text_size">20dp</dimen>
+    <dimen name="digital_text_size">18dp</dimen>
     <dimen name="digital_text_size_round">20dp</dimen>
     <dimen name="digital_x_offset">15dp</dimen>
     <dimen name="digital_x_offset_round">25dp</dimen>
-    <dimen name="digital_y_offset">50dp</dimen>
-    <dimen name="digital_y_margin">8dp</dimen>
+    <dimen name="digital_y_offset">40dp</dimen>
+    <dimen name="digital_y_margin">4dp</dimen>
 </resources>
